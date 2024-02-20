@@ -1,4 +1,4 @@
-package org.example.springdeepsecurity.controller;
+package org.example.basicauth.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
